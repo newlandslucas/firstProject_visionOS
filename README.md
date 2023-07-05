@@ -8,7 +8,7 @@
 
 - In the terminal run this command
 
-  -  `git clone (https://github.com/newlandslucas/TwitterClone.git)`
+  -  `git clone (https://github.com/newlandslucas/firstProject_visionOS.git)`
 
 - Open that folder in your XCode
 - Run & Build Project
